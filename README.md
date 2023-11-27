@@ -10,7 +10,9 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/pingsweepsh.png" alt="Alt Text" style="width: 300px;">](https://github.com/mr-tomr/bash-helpers/blob/main/images/SSLtoPEM.jpg)
 
+[Screener.sh](https://github.com/mr-tomr/bash-helpers/blob/main/screener.sh)
 
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/screener.jpg" alt="Alt Text" style="width: 700px;">
 
 [webServerVulnSearch.sh](https://github.com/mr-tomr/bash-helpers/blob/main/webServerVulnSearch.sh)
 
