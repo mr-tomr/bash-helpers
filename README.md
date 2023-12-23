@@ -6,6 +6,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SSLtoPEM.jpg" alt="Alt Text" style="width: 700px;">
 
+[hashgrab.sh](https://github.com/mr-tomr/bash-helpers/blob/main/hashgrab.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/hashgrab.jpg" alt="Alt Text" style="width: 700px;">
+
 [PingSweep.sh](https://github.com/mr-tomr/bash-helpers/blob/main/PingSweep.sh)
 
 [<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/pingsweepsh.png" alt="Alt Text" style="width: 300px;">](https://github.com/mr-tomr/bash-helpers/blob/main/images/SSLtoPEM.jpg)
