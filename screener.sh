@@ -25,3 +25,7 @@ screen -dmS smb
 
 # Optional - List all created/running Screen sessions
 screen -ls
+
+
+# Update, this can also be a shell alias
+# alias screener='screen -dmS vpn && screen -dmS rdp && screen -dmS web && screen -dmS smb && screen -ls && screen -r vpn'
