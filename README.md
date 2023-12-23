@@ -18,9 +18,9 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/screener.jpg" alt="Alt Text" style="width: 700px;">
 
-[hashgrab.sh](https://github.com/mr-tomr/bash-helpers/blob/main/UsersWithShells.sh)
+[UserWebShells.sh](https://github.com/mr-tomr/bash-helpers/blob/main/UsersWithShells.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/userswithshells.jpg" alt="Alt Text" style="width: 700px;">
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/userswithshells.jpg" alt="Alt Text" style="width: 400px;">
 
 [webServerVulnSearch.sh](https://github.com/mr-tomr/bash-helpers/blob/main/webServerVulnSearch.sh)
 
