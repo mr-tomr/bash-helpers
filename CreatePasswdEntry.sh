@@ -1,6 +1,8 @@
 # Entered by Tom R.  20231224
 
 # Manually create a user entry in /passwd for priv esc.
+# Openssl uses the "Crypt" algorithm to create this hash.
+# Append the user entry to /etc/passwd
 
 # Generate Password String
 openssl passwd Password123
