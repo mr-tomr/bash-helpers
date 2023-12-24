@@ -4,7 +4,7 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [CreatePasswdEntry.sh](https://github.com/mr-tomr/bash-helpers/blob/main/CreatePasswdEntry.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/CreatePasswdEntry.jpg)" alt="Alt Text" style="width: 400px;">
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/CreatePasswdEntry.jpg" alt="Alt Text" style="width: 400px;">
 
 [DownloadSSLToPEM.sh](https://github.com/mr-tomr/bash-helpers/blob/main/DownloadSSLToPEM.sh)
 
