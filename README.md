@@ -2,6 +2,10 @@
 
 Miscellaneous Bash scripts to automate the repetetive stuff.
 
+[BIN-SBIN-Hunter.sh](https://github.com/mr-tomr/bash-helpers/blob/main/BIN-SBIN-Hunter.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/BIN-SBIN-Hunter.jpg" alt="Alt Text" style="width: 400px;">
+
 [CreatePasswdEntry.sh](https://github.com/mr-tomr/bash-helpers/blob/main/CreatePasswdEntry.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/CreatePasswdEntry.jpg" alt="Alt Text" style="width: 400px;">
