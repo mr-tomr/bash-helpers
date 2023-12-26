@@ -4,7 +4,7 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [BIN-SBIN-Hunter.sh](https://github.com/mr-tomr/bash-helpers/blob/main/BIN-SBIN-Hunter.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/BIN-SBIN-Hunter.jpg" alt="Alt Text" style="width: 400px;">
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/BIN-SBIN-Hunter.jpg" alt="Alt Text" style="width: 300px;">
 
 [CreatePasswdEntry.sh](https://github.com/mr-tomr/bash-helpers/blob/main/CreatePasswdEntry.sh)
 
@@ -12,7 +12,7 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [DirectoryOwner-PermCheck.sh](https://github.com/mr-tomr/bash-helpers/blob/main/DirectoryOwner-PermCheck.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/DirectoryOwner-PermCheck.jpg" alt="Alt Text" style="width: 400px;">
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/DirectoryOwner-PermCheck.jpg" alt="Alt Text" style="width: 300px;">
 
 [DownloadSSLToPEM.sh](https://github.com/mr-tomr/bash-helpers/blob/main/DownloadSSLToPEM.sh)
 
