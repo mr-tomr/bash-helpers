@@ -38,7 +38,7 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SUIDBinaryOwners.jpg" alt="Alt Text" style="width: 400px;">
 
-[UserWebShells.sh](https://github.com/mr-tomr/bash-helpers/blob/main/UsersWithShells.sh)
+[UserWithShells.sh](https://github.com/mr-tomr/bash-helpers/blob/main/UsersWithShells.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/userswithshells.jpg" alt="Alt Text" style="width: 400px;">
 
