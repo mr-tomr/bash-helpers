@@ -24,11 +24,11 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [OSCP_Lab_HostFile_Creator.sh](https://github.com/mr-tomr/bash-helpers/blob/main/OSCP_Lab_HostFile_Creator.sh)
 
-[<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/OSCP_Lab_HostFile_Creator.jpg" alt="Alt Text" style="width: 300px;">]
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/OSCP_Lab_HostFile_Creator.jpg" alt="Alt Text" style="width: 300px;">
 
 [PingSweep.sh](https://github.com/mr-tomr/bash-helpers/blob/main/PingSweep.sh)
 
-[<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/pingsweepsh.png" alt="Alt Text" style="width: 300px;">]
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/pingsweepsh.png" alt="Alt Text" style="width: 300px;">
 
 [Screener.sh](https://github.com/mr-tomr/bash-helpers/blob/main/screener.sh)
 
