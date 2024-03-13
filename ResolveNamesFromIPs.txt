@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Created by Tom R. 20240313
+# One liner command to take list of IPs and attempt to locate owners.
+
+ while read -r ip; do echo "$(dig +short -x "$ip" | sed 's/\.$//') $ip"; done < vulnips.txt | tee vulnserver-namesandIPs.txt
