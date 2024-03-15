@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Created by Tom R.
+# Pings list of IPs and retrieves TTL to attempt to ID OS.
+# Returns NA if host cannot be pinged.
+# Windows default TTL is 128
+# Linux default TTL is 64
+
+
+while read ip; do ttl=$(ping -c 1 -W 1 "$ip" | grep -oP "ttl=\K\d+" || echo "N/A"); echo "IP: $ip, TTL: $ttl"; done < affectedIPs.txt > affectedIPTTL.txt
