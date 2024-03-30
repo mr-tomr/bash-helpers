@@ -14,6 +14,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/DirectoryOwner-PermCheck.jpg" alt="Alt Text" style="width: 300px;">
 
+[DownloadAllFilesWebDirectory.sh](https://github.com/mr-tomr/bash-helpers/blob/main/DownloadAllFilesWebDirectory.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/DownloadAllFilesWebDirectory.jpg" alt="Alt Text" style="width: 700px;">
+
 [DownloadSSLToPEM.sh](https://github.com/mr-tomr/bash-helpers/blob/main/DownloadSSLToPEM.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SSLtoPEM.jpg" alt="Alt Text" style="width: 700px;">
