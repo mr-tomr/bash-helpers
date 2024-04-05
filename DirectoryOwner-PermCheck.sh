@@ -32,4 +32,4 @@ while IFS= read -r directory; do
         echo "Directory does not exist: $directory"
         echo
     fi
-done < "dirs.txt"
+done < "dirs.txt" 
