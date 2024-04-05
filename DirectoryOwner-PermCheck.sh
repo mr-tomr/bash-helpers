@@ -7,6 +7,9 @@
 # Oneliner
 # while IFS=: read -r directory; do if [ -d "$directory" ]; then echo "Directory: $directory"; stat -c "Permissions: %A %a\nOwner: %U" "$directory"; else echo "Directory does not exist: $directory"; fi; done < dirs.txt
 
+# Find - no owners - One Liner
+# find / -user root -perm -4000 2>/dev/null
+
 
 # Check if the dirs.txt file exists
 if [ ! -f "dirs.txt" ]; then
