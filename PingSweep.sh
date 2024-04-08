@@ -6,6 +6,8 @@
 # One Liner with Onscreen Progress
 # subnet="172.16.211"; for host in {1..254}; do if ping -c 1 -w 1 "$subnet.$host" >/dev/null 2>&1; then echo -n "$subnet.$host "; else echo -n "."; fi; done; echo
 
+# One Liner - Ping from file list - Onscreen Status
+# while IFS= read -r ip; do if ping -c 1 "$ip" &> /dev/null; then echo "Ping to $ip successful"; else echo "Ping to $ip failed"; fi; done < ips.txt
 
 awk '{print $1}' < hosts.txt | while read ip; do
     if ping -c1 $ip >/dev/null 2>&1; then
