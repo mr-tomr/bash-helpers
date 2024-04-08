@@ -43,6 +43,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/screener.jpg" alt="Alt Text" style="width: 700px;">
 
+[SMBhunter.sh](https://github.com/mr-tomr/bash-helpers/blob/main/SMBhunter.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/smbhunter.jpg" alt="Alt Text" style="width: 400px;">
+
 [SUIDBinaryOwners.sh](https://github.com/mr-tomr/bash-helpers/blob/main/SUIDBinaryOwners.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SUIDBinaryOwners.jpg" alt="Alt Text" style="width: 400px;">
