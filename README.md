@@ -61,7 +61,9 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [WinSysPathLister.sh](https://github.com/mr-tomr/bash-helpers/blob/main/SMBhunter.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/WinSysPathLister.jpg"
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/WinSysPathLister.jpg" alt="Alt Text" style="width: 700px;">
+
+
 
 
 
