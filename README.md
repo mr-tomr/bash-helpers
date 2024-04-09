@@ -59,5 +59,9 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/webServerVulnSearch.jpg" alt="Alt Text" style="width: 700px;">
 
+[WinSysPathLister.sh](https://github.com/mr-tomr/bash-helpers/blob/main/SMBhunter.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/WinSysPathLister.jpg"
+
 
 
