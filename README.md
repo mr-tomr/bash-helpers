@@ -22,6 +22,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SSLtoPEM.jpg" alt="Alt Text" style="width: 700px;">
 
+[ExtractBloodHoundLists.sh](https://github.com/mr-tomr/bash-helpers/blob/main/ExtractBloodHoundLists.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/ExtractBloodHoundLists.jpg" alt="Alt Text" style="width: 300px;">
+
 [hashgrab.sh](https://github.com/mr-tomr/bash-helpers/blob/main/hashgrab.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/hashgrab.jpg" alt="Alt Text" style="width: 700px;">
