@@ -4,7 +4,7 @@
 
 # Run computers through this and it will extract computer names 
 
-grep -o '\<[A-Z][A-Za-z]*\.[A-Z][A-Za-z]*\>' computers.json | sort | uniq
+grep '"label":' computers.json | cut -d '"' -f 4 | sort
 
 # Run users.json through this one
 
