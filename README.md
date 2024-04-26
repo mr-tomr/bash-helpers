@@ -28,7 +28,7 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [HashGenerator.sh](https://github.com/mr-tomr/bash-helpers/blob/main/HashGenerator.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/HashGenerator.jpg" alt="Alt Text" style="width: 700px;">
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/HashGenerator.jpg" alt="Alt Text" style="width: 400px;">
 
 [hashgrab.sh](https://github.com/mr-tomr/bash-helpers/blob/main/hashgrab.sh)
 
