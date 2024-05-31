@@ -4,7 +4,7 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 [Bashtimer.sh](https://github.com/mr-tomr/bash-helpers/blob/main/Bashtimer.sh)
 
-<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/bashtimer.jpg" alt="Alt Text" style="width: 300px;">
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/bashtimer.jpg" alt="Alt Text" style="width: 500px;">
 
 [BIN-SBIN-Hunter.sh](https://github.com/mr-tomr/bash-helpers/blob/main/BIN-SBIN-Hunter.sh)
 
