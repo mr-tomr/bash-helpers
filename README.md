@@ -63,6 +63,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SUIDBinaryOwners.jpg" alt="Alt Text" style="width: 400px;">
 
+[SystemInfoFull.sh](https://github.com/mr-tomr/bash-helpers/blob/main/SystemInfoFull.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SystemInfoFull.sh.jpg" alt="Alt Text" style="width: 400px;">
+
 [UsersWithShells.sh](https://github.com/mr-tomr/bash-helpers/blob/main/UsersWithShells.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/userswithshells.jpg" alt="Alt Text" style="width: 400px;">
