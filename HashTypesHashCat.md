@@ -1,3 +1,7 @@
+If you are searching for a Hashcat ID, you can use the following
+
+`hashcat -h | grep '^[[:space:]]*[0-9]'`
+
 | Hash Indicator       | Hash Type                                | Hashcat ID |
 |----------------------|------------------------------------------|------------|
 | `$1$`                | MD5(Unix)                                | 500        |
