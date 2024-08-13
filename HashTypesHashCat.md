@@ -38,10 +38,12 @@
 | `blowfish$`          | bcrypt                                   | 3200       |
 | `crypt$`             | Crypt                                    | 500        |
 | `crypt-sha512$`      | SHA-512(Crypt)                           | 1800       |
+| `LM`                 | LM                                       | 3000       |
 | `md5$`               | MD5 (WordPress, Joomla)                  | 400        |
 | `md5$`               | MD5 (WordPress, Joomla)                  | 400        |
 | `md5apr1$`           | MD5(APR)                                 | 1600       |
 | `md5crypt$`          | MD5(Unix)                                | 500        |
+| `NTLM`               | NTLM                                     | 1000       |
 | `pbkdf2-sha1$`       | PBKDF2-HMAC-SHA1 (Generic)               | 12000      |
 | `pbkdf2-sha256$`     | PBKDF2-HMAC-SHA256 (Generic)             | 10900      |
 | `scrypt$`            | scrypt                                   | 8900       |
