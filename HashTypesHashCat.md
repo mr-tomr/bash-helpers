@@ -1,6 +1,7 @@
-If you are searching for a Hashcat ID, you can use the following
-
+If you are searching for a Hashcat ID, you can use the following to list all.
 `hashcat -h | grep '^[[:space:]]*[0-9]'`
+
+More often, grep for the hash type.
 
 | Hash Indicator       | Hash Type                                | Hashcat ID |
 |----------------------|------------------------------------------|------------|
