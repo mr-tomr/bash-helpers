@@ -18,9 +18,9 @@ while IFS= read -r line; do
   if [[ $line =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
     # Store the IP address
     ip="$line"
-  else
-    # Extract the desired text (first word after the third "-")
-    text=$(echo "$line" | awk -F ' - ' 'NR%2==1{print $4}' | awk '{print $1}')
+  elif [[ ! -z "$ip" ]]; then
+    # Extract the text (first word after the second "-")
+    text=$(echo "$line" | awk -F ' - ' '{print $2}' | awk '{print $1}')
     
     # Combine IP address and text
     combined="$ip $text"
@@ -28,6 +28,8 @@ while IFS= read -r line; do
     # Output the combined result if text is not empty
     if [ ! -z "$text" ]; then
       echo "$combined"
+      ip="" # Reset IP after processing
+      text="" # Reset text after processing
     fi
   fi
-done < hosts.txt  # Replace 'input.txt' with your input file name
+done < hosts.txt  # Replace 'hosts.txt' with your input file name
