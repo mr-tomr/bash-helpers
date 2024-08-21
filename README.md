@@ -50,6 +50,9 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/ReportNumberCreator.jpg" alt="Alt Text" style="width: 300px;">
 
+[ReversePayloadCreator.sh](https://github.com/mr-tomr/bash-helpers/blob/main/ReversePayloadCreator.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/ReversePayloadCreator.jpg" alt="Alt Text" style="width: 300px;">
 
 [Screener.sh](https://github.com/mr-tomr/bash-helpers/blob/main/screener.sh)
 
