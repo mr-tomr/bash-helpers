@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Takes IP address provided when you connect to a VPN and creates reverse shell payloads 
+# for Windows and Linux, in x86 and x64 architectures.
+# Names indicate which platform, architecture, as well as the port it connects to.
+# Each shell intentionally uses Netcat, to avoid meterpreter dependancies.
+
 # Error handling function
 error_exit() {
     echo "$1" 1>&2
