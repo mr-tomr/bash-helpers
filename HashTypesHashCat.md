@@ -16,6 +16,7 @@ More often, grep for the hash type.
 | `$2x$`               | bcrypt                                   | 3200       |
 | `$2y$`               | bcrypt                                   | 3200       |
 | `$2y$`               | bcrypt                                   | 3200       |
+| `$23$`               | KERBEROAST HASHES                        | 13100      |
 | `$3$`                | LM (LAN Manager)                         | 3000       |
 | `$3$`                | LM (LAN Manager)                         | 3000       |
 | `$5$`                | SHA-256(Unix)                            | 7400       |
