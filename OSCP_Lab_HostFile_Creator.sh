@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Uploaded by Tom R. 20240113
+# Updated by Tom R. 20240822
 # Copy text from Offsec website when you start a lab and get the machine names and IPS
 # It will look something like this
 #    192.168.206.70
@@ -8,9 +8,23 @@
 #    No credentials were provided for this machine
 # Save to text file and run this against it, to create a host file list.
 
+# Check if a filename is provided as an argument
+if [ $# -eq 0 ]; then
+  echo "Error: No input file provided."
+  echo "Usage: $0 <input_file>"
+  exit 1
+fi
+
+# Check if the provided file exists and is readable
+if [ ! -f "$1" ] || [ ! -r "$1" ]; then
+  echo "Error: File '$1' does not exist or is not readable."
+  exit 1
+fi
+
 # Initialize variables
 ip=""
 text=""
+output=""
 
 # Read the input file line by line
 while IFS= read -r line; do
@@ -27,9 +41,13 @@ while IFS= read -r line; do
     
     # Output the combined result if text is not empty
     if [ ! -z "$text" ]; then
-      echo "$combined"
-      ip="" # Reset IP after processing
-      text="" # Reset text after processing
+      echo "$combined"    # Print the IP and associated text
+      output+="$ip\n"     # Store just the IP in output variable
+      ip=""               # Reset IP after processing
+      text=""             # Reset text after processing
     fi
   fi
-done < hosts.txt  # Replace 'hosts.txt' with your input file name
+done < "$1"  # Read from the provided input file
+
+# Print a blank line and then list all IPs
+echo -e "\n\n$output"
