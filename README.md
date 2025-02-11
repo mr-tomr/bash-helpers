@@ -70,6 +70,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/SystemInfoFull.sh.jpg" alt="Alt Text" style="width: 400px;">
 
+[TTL_Reporting.sh](https://github.com/mr-tomr/bash-helpers/blob/main/TTL_Reporting.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/TTL_Reporting.jpg" alt="Alt Text" style="width: 700px;">
+
 [UsersWithShells.sh](https://github.com/mr-tomr/bash-helpers/blob/main/UsersWithShells.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/userswithshells.jpg" alt="Alt Text" style="width: 400px;">
