@@ -10,6 +10,10 @@ Miscellaneous Bash scripts to automate the repetetive stuff.
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/BIN-SBIN-Hunter.jpg" alt="Alt Text" style="width: 300px;">
 
+[Check_Urls.sh](https://github.com/mr-tomr/bash-helpers/blob/main/Check_Urls.sh)
+
+<img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/Check_Urls.sh.jpg" alt="Alt Text" style="width: 400px;">
+
 [CreatePasswdEntry.sh](https://github.com/mr-tomr/bash-helpers/blob/main/CreatePasswdEntry.sh)
 
 <img src="https://github.com/mr-tomr/bash-helpers/blob/main/images/CreatePasswdEntry.jpg" alt="Alt Text" style="width: 400px;">
