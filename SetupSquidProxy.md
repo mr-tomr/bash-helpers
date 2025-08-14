@@ -93,6 +93,8 @@ sudo firewall-cmd --reload
 ## Test Connections
 
 ```bash
+sudo ss -ltnp | grep squid
+
 curl -v -x http://proxyuser:YOURPASS@<proxy-ip>:8080 http://example.com/
 curl -v -x http://proxyuser:YOURPASS@<proxy-ip>:8080 https://example.com/
 ```
